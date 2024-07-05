@@ -1,1 +1,0 @@
-# Cataract-Detection-System
